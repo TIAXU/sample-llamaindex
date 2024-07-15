@@ -23,3 +23,13 @@ pip install -r requirements.txt
 
 
 
+## 第五步：问问题
+```
+User: Llama2有多少参数
+AI: Llama 2有7B、13B和70B参数的变体。
+User: 最少多少
+AI: Llama 2的变体中，参数最少的是7B。
+User: ChatALL在哪下载
+AI: 您可以从 https://github.com/sunner/ChatALL/releases 下载 ChatALL。
+User:
+```
